@@ -63,22 +63,22 @@ npm start
 Here are six images showcasing different parts of the app:
 
 1. **Home Page**  
-   ![Home Page](images\homepage.png)
+   ![Home Page](images/homepage.png)
 
 2. **Add Task**  
-   ![Add Task](images\addTask.png)
+   ![Add Task](images/addTask.png)
 
 3. **Edit Task**  
-   ![Edit Task](iimages\editTask.png)
+   ![Edit Task](images/editTask.png)
 
 4. **Completed Task Details**  
-   ![Completed Task Details](images\completed.png)
+   ![Completed Task Details](images/completed.png)
 
 5. **InComplete Task Details**  
-   ![InComplete Task Details](images\Incomplete.png)
+   ![InComplete Task Details](images/Incomplete.png)
 
 6. **DRF Window**  
-   ![DRF Window](images\DRF.png)
+   ![DRF Window](images/DRF.png)
 ---
 
 ## 📌 Next Steps
